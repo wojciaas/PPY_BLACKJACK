@@ -1,0 +1,10 @@
+Blackjack Rules:
+
+1. The goal is to get as close to 21 points as possible without exceeding it.
+2. Number cards (2-10) are worth their face value.
+3. Face cards (J, Q, K) are worth 10 points.
+4. Aces can be worth 1 or 11 points, whichever is more favorable.
+5. Each player starts with two cards, and can choose to "hit" (take another card) or "stand" (keep their current hand).
+6. The dealer must hit until their cards total 17 or higher.
+7. If a player exceeds 21 points, they "bust" and lose the game.
+8. The player closest to 21 without going over wins.
